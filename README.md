@@ -14,16 +14,13 @@ quer um assistente de IA que responda dúvidas sobre prazos de entrega e atrasos
 7. **Documentação:** objetivo, dados, limitações e riscos.
 
 ## Resultados
-- Pedidos analisados: X
-- Prazo médio geral: X dias
-- Percentual de atraso geral: X%
-- Testes do agente: X de 15 (X%) na primeira rodada; X% após ajustes
+- Pedidos analisados: 96470
+- Prazo médio geral: 10 dias
+- Percentual de atraso geral: 8,1%
 
 ## Arquivos
 - `analise_prazos_entrega.ipynb`: limpeza e análise em Python
 - `base_conhecimento.pdf`: documento usado pelo agente
-- `testes.xlsx`: planilha de testes
-- `documentacao.pdf`: documentação técnica
 - `prints/`: imagens do agente e dos gráficos
 
 ## Dados
